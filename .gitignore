@@ -1,1 +1,10 @@
-data/*
+*__pycache__
+*.ipynb_checkpoints
+data/
+models/
+log/
+src/*__pycache__
+src/data/
+src/models/
+src/log/
+creditcardfraud.zip
